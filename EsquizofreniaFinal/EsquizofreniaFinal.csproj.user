@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PantallaMesas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PantallaPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PantallaPlatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PantallaRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PantallaReservacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SideBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SideBarAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
